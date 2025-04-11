@@ -16,7 +16,8 @@ This is a super clean and simple To-Do List web page built using just **HTML and
 
 ## 📸 Preview
 
-![Screenshot of the To-Do List](blob:https://web.whatsapp.com/879a4413-1816-4c51-ad2b-ae2770d43baf)  
+![Screenshot of the To-Do List](![Screenshot 2025-04-10 224420](https://github.com/user-attachments/assets/c7ba174e-6995-4c32-bebd-f70a3232862d)
+)  
 *Simple, clean, and functional.*
 
 ---
