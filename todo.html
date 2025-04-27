@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Advanced To-Do List</title>
+  <link rel="stylesheet" href="style todo.css" />
+</head>
+<body>
+  <div class="todo-container">
+    <h2>📝 My To-Do List</h2>
+
+    <div class="add-task">
+      <input type="text" placeholder="New Task..." disabled />
+      <select disabled>
+        <option>Priority</option>
+      </select>
+      <button disabled>Add</button>
+    </div>
+
+    <ul>
+      <li>
+        <label>
+          <input type="checkbox" />
+          <span>Finish HTML project</span>
+        </label>
+        <span class="priority high">High</span>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" />
+          <span>Read 10 pages of a book</span>
+        </label>
+        <span class="priority medium">Medium</span>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" />
+          <span>Clean the desk</span>
+        </label>
+        <span class="priority low">Low</span>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" />
+          <span>Reply to emails</span>
+        </label>
+        <span class="priority medium">Medium</span>
+      </li>
+    </ul>
+  </div>
+</body>
+</html>
