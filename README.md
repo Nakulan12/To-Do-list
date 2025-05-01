@@ -19,8 +19,8 @@ This is a super clean and simple To-Do List web page built using just **HTML and
 ## 💬 Want More?
 
 If you'd like to make this interactive with:
-- Adding/removing tasks
-- Saving tasks locally
+- Adding/removing tasks.
+- Saving tasks locally.
 - Dark mode toggle
 
 
